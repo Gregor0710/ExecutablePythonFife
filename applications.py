@@ -1,1 +1,1 @@
-app = [[]]
+app = [["epf.v2.0.alpha.zip","https://github.com/Gregor0710/ExecutablePythonFife/raw/main/epf.v2.0.zip"],["epf.v2.1.release.zip","https://github.com/Gregor0710/ExecutablePythonFife/raw/main/epf.v2.1.release.zip"],["epf.v2.1.with_correction.zip","https://github.com/Gregor0710/ExecutablePythonFife/raw/main/epf.v2.1.with_correction.zip"]]
